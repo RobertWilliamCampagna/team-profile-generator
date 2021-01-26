@@ -5,13 +5,14 @@ GIVEN a command-line application that accepts user input,
 WHEN I am prompted for my team members and their information,
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input. <br>
 
-WHEN I click on an email address in the HTML, 
-THEN my default email program opens and populates the TO field of the email with the address. WHEN I click on the GitHub username, 
-THEN that GitHub profile opens in a new tab.<br>
-WHEN I start the application
-THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number.<br>
-WHEN I enter the team manager’s name, employee ID, email address, and office number, THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team.<br>
+WHEN I click on an email address in the HTML, THEN my default email program opens and populates the TO field of the email with the address. WHEN I click on the GitHub username, THEN that GitHub profile opens in a new tab.<br>
+
+WHEN I start the application,THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number. WHEN I enter the team manager’s name, employee ID, email address, and office number, THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team.<br>
+
 WHEN I select the engineer option, THEN I am prompted to enter the engineer’s name, ID, email, and GitHub username, and I am taken back to the menu.<br>
+
 WHEN I select the intern option, THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu.<br>
-WHEN I decide to finish building my team,
-THEN I exit the application, and the HTML is generated.
+
+WHEN I decide to finish building my team, THEN I exit the application, and the HTML is generated.
+
+<video src= "https://vimeo.com/user36631356/review/504896835/65d5098eb2" alt="Demo">
