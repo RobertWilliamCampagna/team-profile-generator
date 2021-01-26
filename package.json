@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertWilliamCampagna/team-profile-generator.git"
+  },
+  "author": "Robert Campagna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertWilliamCampagna/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/RobertWilliamCampagna/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
