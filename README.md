@@ -15,5 +15,5 @@ WHEN I select the intern option, THEN I am prompted to enter the intern’s name
 
 WHEN I decide to finish building my team, THEN I exit the application, and the HTML is generated.
 
-<iframe src="https://player.vimeo.com/video/504896835" width="640" height="482" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/504896835" width="640" height="482" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 <p><a href="https://vimeo.com/504896835">Team Profile Generator Demo</a> from <a href="https://vimeo.com/user36631356">Robert William Campagna</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
